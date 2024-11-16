@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on improving my skillset.
 - 🌱 Learning technologies for backend development.
 - 👯 I’m willing to collaborate on backend projects.
-- 📫 How to reach me: X: @sherif_deji.
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/sherifdeji. 
 - ⚡ Fun fact: Loading🙃...
